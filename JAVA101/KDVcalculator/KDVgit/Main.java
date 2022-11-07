@@ -11,6 +11,6 @@ public class Main {
         System.out.println("Price without KDV: "+wholeAmount);
         System.out.println("Price with KDV: "+ withKDV);
         System.out.println("KDV rate is: %"+KDV);
-
+ 
     }
 }
