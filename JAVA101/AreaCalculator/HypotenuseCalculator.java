@@ -11,3 +11,4 @@ public class HypotenuseCalculator {
         System.out.println("Perimeter of triangle equals to: "+(a+b+hypotenuse));
      }
 }
+ 
