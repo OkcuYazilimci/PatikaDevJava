@@ -9,5 +9,5 @@ public class HypotenuseCalculator {
         double hypotenuse = Math.sqrt((a*a)+(b*b));
         System.out.println("Hypotenuse is equals to: "+hypotenuse);
 
-    }
+     }
 }
