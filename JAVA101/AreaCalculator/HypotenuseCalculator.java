@@ -8,6 +8,6 @@ public class HypotenuseCalculator {
         double b = input.nextDouble();
         double hypotenuse = Math.sqrt((a*a)+(b*b));
         System.out.println("Hypotenuse is equals to: "+hypotenuse);
-
+        System.out.println("Perimeter of triangle equals to: "+(a+b+hypotenuse));
      }
 }
