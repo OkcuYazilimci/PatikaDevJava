@@ -1,0 +1,18 @@
+import java.awt.*;
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Grade of Math: ");
+        double math = input.nextDouble();
+        System.out.println("Grade  of Physic: ");
+        double physics = input.nextDouble();
+        System.out.println("Grade  of Chemistry: ");
+        double chemistry = input.nextDouble();
+        System.out.println("Grade  of Literature: ");
+        double literature = input.nextDouble();
+
+        double gradeAverage = (math+physics+chemistry+literature)/4;
+        System.out.println(gradeAverage);
+    }
+}
