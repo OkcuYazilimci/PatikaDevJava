@@ -1,2 +1,4 @@
 # wwww.PatikaDev.com
-I used this repository for sharing my patika dev java projects. Feel free to take these projects.
+I am currently using this repository for saving my patika dev java projects.
+It helps me to remind the algorithms that I forgot.
+Feel free to utilize these projects.
