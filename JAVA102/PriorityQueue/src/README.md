@@ -1,5 +1,6 @@
 ## TREE SET
 ```
+**sadas**
     **Setlerde ayni veri tipinden sadece 1 adet olabilceginden
     Ahmet 30 ve Damla 30 notlu ogrencilerden sadece birini yazdirabilecegiz.**
     new OrderNoteComparator().reversed() yazdigimizda ise reversed() methodu yuksek puandan
