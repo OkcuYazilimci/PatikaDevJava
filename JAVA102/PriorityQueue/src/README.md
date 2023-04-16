@@ -1,7 +1,7 @@
 ## TREE SET
 ```
-    ** Setlerde ayni veri tipinden sadece 1 adet olabilceginden
-    Ahmet 30 ve Damla 30 notlu ogrencilerden sadece birini yazdirabilecegiz. **
+    **Setlerde ayni veri tipinden sadece 1 adet olabilceginden
+    Ahmet 30 ve Damla 30 notlu ogrencilerden sadece birini yazdirabilecegiz.**
     new OrderNoteComparator().reversed() yazdigimizda ise reversed() methodu yuksek puandan
     dusuk puana gore siralatacaktir!!#
     Stringler arasi karsilastirma yapmak icin comparateto(); methodunu kullaniriz.
