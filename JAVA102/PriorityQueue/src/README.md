@@ -1,4 +1,4 @@
-##TREE SET
+#TREE SET
 ```
     ** Setlerde ayni veri tipinden sadece 1 adet olabilceginden
     Ahmet 30 ve Damla 30 notlu ogrencilerden sadece birini yazdirabilecegiz. **
