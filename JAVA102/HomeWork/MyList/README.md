@@ -53,7 +53,7 @@ in case of T generic type is String. We used ***instanceof*** method to decide w
 integer or string
 
 
-```
+```ruby
 public String toString() {
        String str = "";
        for (int i = 0; i < size(); i++)
@@ -99,7 +99,7 @@ liste döner.
 
 # TAKEN NOTES
 ***
- ```
+ ```ruby
     Object[] myObjectArray = new Object[5];
     setGenericArray(new Object[getCapacity()]);
  ```  
@@ -126,7 +126,7 @@ dönüştürmek için kullanılabilir. <br />
 Integer türünde bir diziye dönüştürülür:
 
 
-```
+```ruby
 Object[] objects = new Object[] { 1, 2, 3 };
 Integer[] integers = (Integer[]) objects;
 ```
